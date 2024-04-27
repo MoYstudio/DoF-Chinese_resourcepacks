@@ -1,5 +1,5 @@
 # DoF-Chinese_resourcepacks
-DoF整合包汉化计划
+DoF整合包全汉化计划
 
 - 这个是用来干嘛的？
 <br>用于储存DoF整合包汉化材质包
