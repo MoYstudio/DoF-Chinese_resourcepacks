@@ -7,7 +7,7 @@ DoF整合包全汉化计划
 - 负责人：
 <br>zirran & CHOCOLATE
 
-- 加入我们
+- 加入计划
 <br>发送邮件至：ZirranYa@outlook.com
 <br>并抄送至：16774996@qq.com
 - 其他链接
