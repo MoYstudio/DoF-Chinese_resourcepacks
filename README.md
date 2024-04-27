@@ -10,3 +10,5 @@ DoF整合包全汉化计划
 - 加入我们
 <br>发送邮件至：ZirranYa@outlook.com
 <br>并抄送至：16774996@qq.com
+- 其他链接
+<br>[DoF整合包问题提交库](https://github.com/MoYstudio/DoF-Issue-vacuum-cleaner)
