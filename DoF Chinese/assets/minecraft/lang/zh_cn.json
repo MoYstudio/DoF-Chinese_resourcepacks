@@ -1,0 +1,354 @@
+{
+  "selectWorld.backupQuestion.experimental": "Unknown Entity Error",
+  "selectWorld.backupWarning.experimental": "Minecraft has detected an unknown presence in this world. It is advised that you DO NOT PASS THIS SCREEN. Ignoring this warning may result in strange occurrences and/or encounters. Remember, don't stare directly at the bugs.",
+  "selectWorld.warning.experimental.title": "Unknown Entity Error",
+  "selectWorld.warning.experimental.question": "Minecraft has detected an unknown presence in this world. It is advised that you DO NOT PASS THIS SCREEN. Ignoring this warning may result in strange occurrences and/or encounters. Remember, don't stare directly at the bugs.",
+
+
+
+  "config.page0.progress": "Config [0/0]",
+  "config.page1.progress": "Config [1/6]",
+  "config.page2.progress": "Config [2/6]",
+  "config.page3.progress": "Config [3/6]",
+  "config.page4.progress": "Config [4/6]",
+  "config.page5.progress": "Config [5/6]",
+  "config.page6.progress": "Config [6/6]",
+  "config.skin_library.progress": "Config [Skin Library]",
+
+  "config.page1.title": "Page 1",
+  "config.page2.title": "Page 2",
+  "config.page3.title": "Page 3",
+  "config.page4.title": "Page 4",
+  "config.page5.title": "Page 5",
+  "config.page6.title": "Page 6",
+  "config.sss.title": "Super Secret Settings",
+  "config.pages.title": "Pages",
+
+
+  "config.sightingChanceConfig.title": "Sighting Chance",
+  "config.sightingChanceConfig.description": "Adjusts the chance of Herobrine appearing.",
+  "config.sightingChanceConfig.setting1": "Common",
+  "config.sightingChanceConfig.setting2": "Uncommon",
+  "config.sightingChanceConfig.setting3": "Rare",
+
+  "config.dayDelayConfig.title": "行动时间",
+  "config.dayDelayConfig.description": "Herobrine开始大型行动所需的间隔时间（游戏日）.",
+  "config.dayDelayConfig.setting1": "Reduce Delay",
+  "config.dayDelayConfig.setting2": "Increase Delay",
+
+  "config.ghostDoorConfig.title": "幽灵门",
+  "config.ghostDoorConfig.description": "Herobrine是否能打开你的门。",
+
+  "config.ghostMineConfig.title": "幽灵矿工",
+  "config.ghostMineConfig.description": "Herobrine是否会在你旁边的矿道中采矿。",
+  
+  "config.creepingConfig.title": "脊背发凉",
+  "config.creepingConfig.description": "Herobrine是否有时会在你身后。",
+
+  "config.stalkingConfig.title": "跟踪者",
+  "config.stalkingConfig.description": "Herobrine是否会从远处跟踪你.",
+
+
+
+  "config.poofingTorchesConfig.title": "火把都给你薅掉",
+  "config.poofingTorchesConfig.description": "Herobrine是否会拆掉你的火把（每游戏日一次）.",
+
+  "config.burningBaseConfig.title": "Burning Base",
+  "config.burningBaseConfig.description": "Changes whether or not Herobrine will try to burn down your house once you leave the area (one check per in-game day).",
+  
+  "config.spotNoiseConfig.title": "Sighting Noise",
+  "config.spotNoiseConfig.description": "Changes whether or not a noise is played when the player spots Herobrine.",
+
+  "config.glowingEyesConfig.title": "Emissive Layers",
+  "config.glowingEyesConfig.description": "Changes whether or not Herobrine will have emissive layers. Useful for players who want to make him more vanilla, or that use dynamic lighting.",
+
+  "config.herobrineSkinConfig.title": "Herobrine Skin",
+  "config.herobrineSkinConfig.description": "Changes Herobrine's skin texture/model.",
+  "config.herobrineSkinConfig.setting1": "Skin Library",
+
+  "config.lurkingLanguageConfig.title": "Lurking Language",
+  "config.lurkingLanguageConfig.description": "Changes the language that Herobrine will use to communicate with the player.",
+  "config.lurkingLanguageConfig.setting1": "Swedish",
+  "config.lurkingLanguageConfig.setting2": "English",
+
+
+
+  "config.jumpscareConfig.title": "Jumpscare Mechanic",
+  "config.jumpscareConfig.description": "Enables the ability for Herobrine to jumpscare the player when they get too close.",
+
+  "config.crashConfig.title": "Crash Mechanic",
+  "config.crashConfig.description": "Swaps the jumpscare mechanic for the og crash mechanic. [EPILEPSY WARNING!] [NOT FIT FOR WEAKER MACHINES!] (Only works when jumpscare is enabled.)",
+
+  "config.creepingVanishingDelayConfig.title": "Creeping Vanishing Delay",
+  "config.creepingVanishingDelayConfig.description": "Changes how long it takes for Herobrine to disappear after being caught creeping up on the player.",
+  "config.creepingVanishingDelayConfig.setting1": "None",
+  "config.creepingVanishingDelayConfig.setting2": "0.5 Seconds",
+  "config.creepingVanishingDelayConfig.setting3": "1 Second",
+  "config.creepingVanishingDelayConfig.setting4": "1.5 Seconds",
+  "config.creepingVanishingDelayConfig.setting5": "2 Seconds",
+
+  "config.stalkingVanishingDelayConfig.title": "Stalking Vanishing Delay",
+  "config.stalkingVanishingDelayConfig.description": "Changes how long it takes for Herobrine to disappear after being caught stalking the player.",
+  "config.stalkingVanishingDelayConfig.setting1": "None",
+  "config.stalkingVanishingDelayConfig.setting2": "0.5 Seconds",
+  "config.stalkingVanishingDelayConfig.setting3": "1 Second",
+  "config.stalkingVanishingDelayConfig.setting4": "1.5 Seconds",
+  "config.stalkingVanishingDelayConfig.setting5": "2 Seconds",
+
+  "config.noSleepConfig.title": "No Sleep",
+  "config.noSleepConfig.description": "Toggles whether or not Herobrine will prevent you from sleeping when he's nearby. (Will not work on peaceful.)",
+
+  "config.dreadfulDonationConfig.title": "Dreadful Donation",
+  "config.dreadfulDonationConfig.description": "Toggles whether or not Herobrine will leave you gifts in your chests. (Can happen before the 3 days pass or a shrine is built. One check per in-game day.)",
+  
+
+
+  "config.crimsonCurseConfig.title": "Crimson Curse",
+  "config.crimsonCurseConfig.description": "Toggles whether or not Herobrine will change your torches to redstone torches and your lanterns to soul lanterns. (one check per in-game day)",
+
+  "config.OGshrineMechanicConfig.title": "OG Shrine Mechanic",
+  "config.OGshrineMechanicConfig.description": "Toggles whether or not lightning strikes when activating a Herobrine shrine.",
+
+  "config.nightmareMechanicConfig.title": "Nightmare Mechanic",
+  "config.nightmareMechanicConfig.description": "Toggles whether or not Herobrine will appear at the foot of your bed when you sleep.",
+
+  "config.windowWatcherConfig.title": "Window Watcher",
+  "config.windowWatcherConfig.description": "Toggles whether or not Herobrine will disappear when viewed through a window.",
+
+  "config.chilledCandlesConfig.title": "Chilled Candles",
+  "config.chilledCandlesConfig.description": "Toggles whether or not Herobrine has the ability to snuff out the players candles.",
+
+  "config.sinisterSignsConfig.title": "Sinister Signs",
+  "config.sinisterSignsConfig.description": "Toggles whether or not Herobrine will leave signs for the player during certain events.",
+  
+
+
+  "config.sightingSenseConfig.title": "Sighting Sense",
+  "config.sightingSenseConfig.description": "Changes whether or not your pets will react when Herobrine is nearby.",
+
+  "config.nameTagConfig.title": "Nametag",
+  "config.nameTagConfig.description": "Changes whether or not Herobrine has a nametag and how it appears.",
+  "config.nameTagConfig.setting1": "Off",
+  "config.nameTagConfig.setting2": "Dynamic",
+  "config.nameTagConfig.setting3": "Obfuscated",
+
+  "config.rekindlingShrineConfig.title": "Rekindling Shrine",
+  "config.rekindlingShrineConfig.description": "Changes whether or not Herobrine will relight doused shrines.",
+
+  "config.advancementsConfig.title": "Advancements",
+  "config.advancementsConfig.description": "Changes whether players will be rewarded advancements related to From The Fog. (ADVANCEMENTS GRANTED WHILE ENABLED WILL BE LOST IF DISABLED!!!)",
+
+  "config.fearfulFootstepsConfig.title": "Fearful Footsteps",
+  "config.fearfulFootstepsConfig.description": "Changes whether or not Herobrine will run up behind players creating footsteps.",
+
+  "config.shrineSupriseConfig.title": "Shrine Surprise",
+  "config.shrineSupriseConfig.description": "Changes whether or not Herobrine will appear on top of the shrine when lit.",
+  
+
+
+  "config.lurkingConfig.title": "Lurking Mechanic",
+  "config.lurkingConfig.description": "Changes whether or not Herobrine will lurk around the player watching from a very far distance.",
+
+  "config.autoConfigDisable.title": "Take Back Control",
+  "config.autoConfigEnable.title": "Give It Control",
+  "config.autoConfig.description": "Changes whether or not Herobrine can modify the config.",
+
+
+
+  "config.hittingThatGriddyConfig.title": "Hitting That Griddy",
+  "config.hittingThatGriddyConfig.description": "Changes whether or not Herobrine will spawn doing the griddy.",
+
+
+
+  "config.skinLibrary.randomizeSkinsConfig.title": "Randomize Skins",
+  "config.skinLibrary.builtInSkins.title": "Skins",
+  "config.skinLibrary.defaultSkin.title": "Default",
+  "config.skinLibrary.classicSkin.title": "Classic",
+  "config.skinLibrary.blackEyesSkin.title": "Black Eyes",
+  "config.skinLibrary.entity303Skin.title": "Entity 303",
+  "config.skinLibrary.glitchSkin.title": "Glitch",
+  "config.skinLibrary.nullSkin.title": "Null",
+  "config.skinLibrary.lunarEclipseSkin.title": "Lunar Eclipse",
+  "config.skinLibrary.apparitionSkin.title": "Apparition",
+  "config.skinLibrary.zombieSkin.title": "Zombie",
+  "config.skinLibrary.nullifiedSkin.title": "Nullified",
+  "config.skinLibrary.facelessSkin.title": "Faceless",
+  "config.skinLibrary.distortedSkin.title": "Distorted",
+  "config.skinLibrary.alexSkin.title": "Alex",
+  "config.skinLibrary.lickSkin.title": "Lick",
+  "config.skinLibrary.fallenKingdomSkin.title": "Fallen Kingdom",
+  "config.skinLibrary.sculkInfestedSkin.title": "Sculk Infested",
+  "config.skinLibrary.netherBrineSkin.title": "Netherbrine",
+  "config.skinLibrary.farlanderSkin.title": "Farlander",
+  "config.skinLibrary.theHeadlessSkin.title": "The Headless",
+  "config.skinLibrary.lumberingJackSkin.title": "Lumbering Jack",
+  "config.skinLibrary.smileSkin.title": "Smile",
+  "config.skinLibrary.theGrimreaperSkin.title": "The Grimreaper",
+  "config.skinLibrary.whiteEyesClassicSkin.title": "White Eyes (Classic)",
+  "config.skinLibrary.theWhitePumpkinSkin.title": "The White Pumpkin",
+
+  "watchingSkin.customSkinPack.name": "Custom Skins",
+  "watchingSkin.customSkin1.name": "Custom Skin 1",
+  "watchingSkin.customSkin2.name": "Custom Skin 2",
+  "watchingSkin.customSkin3.name": "Custom Skin 3",
+  "watchingSkin.customSkin4.name": "Custom Skin 4",
+  "watchingSkin.customSkin5.name": "Custom Skin 5",
+
+
+
+  "sign.type1.line1": "",
+  "sign.type1.line2": "我在看着...",
+  "sign.type1.line3": "",
+  "sign.type1.line4": "",
+
+  "sign.type2.line1": "",
+  "sign.type2.line2": "救救我",
+  "sign.type2.line3": "",
+  "sign.type2.line4": "",
+
+  "sign.type3.line1": "",
+  "sign.type3.line2": "我看见你了。",
+  "sign.type3.line3": "",
+  "sign.type3.line4": "",
+
+  "sign.type4.line1": "",
+  "sign.type4.line2": "你好啊",
+  "sign.type4.line3": "THIS IS THE PLAYERS USERNAME, CHANGING THIS HAS NO EFFECT.",
+  "sign.type4.line4": "",
+
+  "sign.type5.line1": "",
+  "sign.type5.line2": "醒来吧.",
+  "sign.type5.line3": "",
+  "sign.type5.line4": "",
+
+  "sign.type6.line1": "",
+  "sign.type6.line2": "你",
+  "sign.type6.line3": "并不孤单.",
+  "sign.type6.line4": "",
+
+  "sign.type7.line1": "",
+  "sign.type7.line2": "听好了.",
+  "sign.type7.line3": "",
+  "sign.type7.line4": "",
+
+  "sign.type8.line1": "",
+  "sign.type8.line2": "你也",
+  "sign.type8.line3": "听到那个声音了吗?",
+  "sign.type8.line4": "",
+
+  "sign.type9.line1": "",
+  "sign.type9.line2": "停下来.",
+  "sign.type9.line3": "",
+  "sign.type9.line4": "",
+
+  "sign.type10.line1": "",
+  "sign.type10.line2": "我吓到你了",
+  "sign.type10.line3": "吗?",
+  "sign.type10.line4": "",
+
+  "sign.type11.line1": "",
+  "sign.type11.line2": "你可不能逃离",
+  "sign.type11.line3": "这场噩梦.",
+  "sign.type11.line4": "",
+
+  "sign.type12.line1": "你在",
+  "sign.type12.line2": "寻找",
+  "sign.type12.line3": "烛光吗?",
+  "sign.type12.line4": "",
+
+
+
+  "advancements.ftf.root.title": "踏雾而来",
+  "advancements.ftf.root.description": "你看不到他，但他能看到你。",
+
+  "advancements.ftf.built_shrine.title": "你不知道你做了什么...",
+  "advancements.ftf.built_shrine.description": "建造Herobrine神殿",
+
+  "advancements.ftf.jumpscared.title": "在你后面...",
+  "advancements.ftf.jumpscared.description": "被Herobrine跳吓.",
+
+  "advancements.ftf.found_herobrine_structure.title": "我记得我玩的是单人游戏...",
+  "advancements.ftf.found_herobrine_structure.description": "发现Herobrine建造的任意一个结构.",
+
+  "advancements.ftf.herobrine_griddy.title": "啥?!",
+  "advancements.ftf.herobrine_griddy.description": "遇到愤怒的Herobrine愤怒的与愤怒的烧烤架进行搏斗.",
+
+  "advancements.ftf.be_the_librarian.title": "这下真是书呆子了",
+  "advancements.ftf.be_the_librarian.description": "成为一位图书管理员.",
+
+  "advancements.ftf.liberty_lantern.title": "你好啊被废弃的萤火虫.",
+  "advancements.ftf.liberty_lantern.description": "把一个灯笼交给悦灵.",
+
+  "advancements.ftf.dog_growl.title": "小子你挺牛逼啊",
+  "advancements.ftf.dog_growl.description": "亲眼目睹一只驯服的狼向Herobrine咆哮.",
+
+  "advancements.ftf.have_a_nightmare.title": "只是场噩梦...对吧？",
+  "advancements.ftf.have_a_nightmare.description": "第一次做噩梦.",
+
+  "advancements.ftf.found_logless_tree.title": "我不记得我砍过这棵树.",
+  "advancements.ftf.found_logless_tree.description": "发现一棵已被砍到的树.",
+
+  "advancements.ftf.found_leafless_grove.title": "你们有没有树枝啊！？！？",
+  "advancements.ftf.found_leafless_grove.description": "发现一片没有树叶的树林.",
+
+  "advancements.ftf.named_dd_item.title": "它在说话...",
+  "advancements.ftf.named_dd_item.description": "找到一个命名的恐惧捐赠品.",
+
+  "advancements.ftf.spotted_herobrine.title": "?不是我真没骗你，我真的在MC...",
+  "advancements.ftf.spotted_herobrine.description": "发现Herobrine.",
+
+  "advancements.ftf.be_comical_bonzo.title": "太棒了（鼓掌）.",
+  "advancements.ftf.be_comical_bonzo.description": "当个小丑",
+
+  "advancements.ftf.ghost_miner.title": "哥们你这属于非法侵占他人财产",
+  "advancements.ftf.ghost_miner.description": "在你挖矿时，Herobrine也在旁边挖掘某物.",
+
+  "advancements.ftf.take_gm_torch.title": "行行行我要了好了吧",
+  "advancements.ftf.take_gm_torch.description": "从幽灵矿工手上拿到火把.",
+
+  "advancements.ftf.dreadful_donation.title": "谁放在这的?",
+  "advancements.ftf.dreadful_donation.description": "从Herobrine那里拿到恐惧捐赠品.",
+
+  "advancements.ftf.didnt_notice_herobrine.title": "你根本没在Minecraft你跑哪去了",
+  "advancements.ftf.didnt_notice_herobrine.description": "在没有注意到的情况下被Herobrine跟踪.",
+
+  "advancements.ftf.survive_3_days.title": "有人跟着我?",
+  "advancements.ftf.survive_3_days.description": "生存3天.",
+
+  "advancements.ftf.survive_10_days.title": "有人跟着我...",
+  "advancements.ftf.survive_10_days.description": "生存10天.",
+
+  "advancements.ftf.survive_50_days.title": "放过我吧.",
+  "advancements.ftf.survive_50_days.description": "生存50天.",
+
+  "advancements.ftf.survive_100_days.title": "我得躲起来.",
+  "advancements.ftf.survive_100_days.description": "生存100天.",
+
+  "advancements.ftf.survive_200_days.title": "让我出去!",
+  "advancements.ftf.survive_200_days.description": "生存200天.",
+
+  "advancements.ftf.found_torch_tunnel.title": "哥们你矿工僵尸吗.",
+  "advancements.ftf.found_torch_tunnel.description": "发现Herobrine挖掘的隧道.",
+
+
+
+  "subtitle.message.warning": "我在看...",
+
+
+
+  "chat.cleanup.execute.statement": "Removing All Herobrines.",
+  "chat.cleanup.failure.statement": "Failed To Remove Herobrine!",
+  "chat.cleanup.failure.description": "There are currently no Herobrines loaded in this world!",
+  "chat.cleanup.success.statement": "Successfully Removed All Herobrines!",
+
+  "chat.debug_mode.enable.statement": "Enabled Debug Mode successfully!",
+  "chat.debug_mode.disable.statement": "Disabled Debug Mode successfully!",
+
+  "chat.default_config.execute.statement": "Successfully restored config defaults!",
+
+  "chat.sighting_summons.tutorial.statement": "Command Tutorial",
+  "chat.sighting_summons.creeping.tutorial.description": "This command activates the creeping mechanic and spawns Herobrine behind the player it is executed on.",
+  "chat.sighting_summons.stalking.tutorial.description": "This command activates the stalking mechanic and spawns Herobrine somewhere around the player it is executed on. Herobrine may not spawn if his spawnpoint is determined to be in the line of sight another player.",
+  "chat.sighting_summons.nightmare.tutorial.description": "This command activates the nightmare mechanic and spawns Herobrine at the foot of the bed of the player it is executed on. Herobrine will not spawn if the player isn't in a bed.",
+  "chat.sighting_summons.lurking.tutorial.description": "This command activates the lurking mechanic and spawns Herobrine somewhere off in the distance around the player it is executed on. Herobrine may not spawn if his spawnpoint is determined to be within 40 blocks of a player."
+}

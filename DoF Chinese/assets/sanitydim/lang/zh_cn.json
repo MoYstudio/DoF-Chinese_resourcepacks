@@ -1,0 +1,36 @@
+{
+	"entity.sanitydim.rotting_stalker": "腐烂跟踪者",
+	"entity.sanitydim.sneaking_terror": "隐藏的恐惧",
+	
+	"commands.sanity.set.success.single": "设置 %s's 理智值数为 %s",
+	"commands.sanity.set.success.multiple": "设置理智值 %s 给 %s 玩家",
+	"commands.sanity.add.success.single": "增加 %s 理智值数 %s",
+	"commands.sanity.add.success.multiple": "增加 %s 理智值给 %s 玩家",
+	"commands.sanity.config.reload": "成功重新加载维度配置",
+	
+	"gui.sanitydim.hint00": "那些声音是什么?",
+	"gui.sanitydim.hint01": "我有些担心",
+	"gui.sanitydim.hint02": "那是什么?",
+	"gui.sanitydim.hint03": "好奇怪的感觉...",
+	"gui.sanitydim.hint04": "我不喜欢这样...",
+	"gui.sanitydim.hint05": "嗯?",
+	"gui.sanitydim.hint06": "这是?",
+	"gui.sanitydim.hint07": "什么?",
+	"gui.sanitydim.hint08": "那里是什么?",
+	"gui.sanitydim.hint09": "这是...我吗?",
+	"gui.sanitydim.hint010": "奇怪...",
+	"gui.sanitydim.hint011": "我看到什么了?",
+	"gui.sanitydim.hint10": "有人在我后面！",
+	"gui.sanitydim.hint11": "一,二,三,四...",
+	"gui.sanitydim.hint12": "...五,六,七,八...",
+	"gui.sanitydim.hint13": "他们在扰乱我的思绪！",
+	"gui.sanitydim.hint14": "放！过！我！吧！",
+	"gui.sanitydim.hint15": "别给他们留空间...",
+	"gui.sanitydim.hint16": "他们怎么还不走?!",
+	"gui.sanitydim.hint17": "太吵了！太吵了！太吵了！",
+	"gui.sanitydim.hint18": "那些声音... 我不能...",
+
+	"item.sanitydim.tooltip.press_shift": "§7Press §9SHIFT§7 for more information",
+	"item.sanitydim.garland": "花环",
+	"item.sanitydim.garland.tooltip": "§7有助于舒缓心情的东西\n\n能缓慢恢复你的理智，使你对外界压力的抵抗力比之前略强"
+}
