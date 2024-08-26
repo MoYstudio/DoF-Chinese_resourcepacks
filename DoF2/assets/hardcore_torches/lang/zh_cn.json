@@ -1,0 +1,13 @@
+{
+  "block.hardcore_torches.lit_torch": "点燃的火把",
+  "block.hardcore_torches.unlit_torch": "未点燃的火把",
+  "block.hardcore_torches.smoldering_torch": "冒烟的火把",
+  "block.hardcore_torches.burnt_torch": "烧焦的火把",
+  "block.hardcore_torches.lit_lantern": "点燃的灯笼",
+  "block.hardcore_torches.unlit_lantern": "未点燃的灯笼",
+  "block.hardcore_torches.lit_soul_lantern": "点燃的灵魂灯笼",
+  "block.hardcore_torches.unlit_soul_lantern": "未点燃的灵魂灯笼",
+  "item.hardcore_torches.oil_can": "灯油罐",
+  "item.hardcore_torches.animal_fat": "动物脂肪",
+  "item.hardcore_torches.fire_starter": "引火器"
+}

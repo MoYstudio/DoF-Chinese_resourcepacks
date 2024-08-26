@@ -1,0 +1,10 @@
+· 大部分模组由LPe806完成
+· sons_of_sins模组由vdvgsdf完成 | 相关链接：https://center.mcmod.cn/637949/
+· deeperdarker模组由zirranYa完成 | 相关链接：https://center.mcmod.cn/404437/
+· ias模组由Terry完成 | 相关链接：https://center.mcmod.cn/836686/
+· 其余更新模组由全体成员共同完成
+
+[声明]
+本汉化包仅供[DoF]Dominated by Fear系列作品使用，汉化不一定100%准确，请见谅；
+本整合包中还添加了[i18]汉化，用于搭配使用，互不冲突，可同时使用；
+最终解释权归MoY Studio所有。
